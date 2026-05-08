@@ -110,7 +110,7 @@ churn-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/churn-analysis-olist.git
+git clone https://github.com/JaiswalAnalytics/churn-analysis-olist.git
 cd churn-analysis-olist
 
 # 2. Install dependencies
