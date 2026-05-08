@@ -46,7 +46,7 @@ with early access and VIP offers retains this segment before they slide into At 
 
 ---
 
-## Dashboard Preview - Link (https://app.powerbi.com/view?r=eyJrIjoiZWNhODM4NWMtYzFjZC00NjUzLWFjN2UtMWZiY2NhOGNjNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Dashboard Preview - **[👉 View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNhODM4NWMtYzFjZC00NjUzLWFjN2UtMWZiY2NhOGNjNTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ### Page 1 — Executive Summary
 > 4 KPI cards · Customer segment bar chart · Revenue donut chart
