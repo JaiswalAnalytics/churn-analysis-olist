@@ -151,4 +151,4 @@ Cohort Retention @ Month 2 :        <1% across all cohorts
 Built as part of a Data Analyst portfolio project to demonstrate end-to-end analytical skills:
 data cleaning → EDA → RFM modelling → cohort analysis → business storytelling → dashboard.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/shubham-jaiswal-7749bb240/) · [GitHub](https://github.com/JaiswalAnalytics)
